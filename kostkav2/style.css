@@ -1,0 +1,58 @@
+* {
+  font-family: Helvetica, Arial, sans-serif;
+  text-align: center;
+}  
+.main { 
+        width: 100%; 
+        margin: auto; 
+    } 
+  
+.kostka 
+{ 
+        display: inline-block; 
+        margin: 10px; 
+} 
+  
+body
+{ 
+    text-align: center;
+} 
+  
+h1 { 
+        margin: 25px; 
+        font-size: 75px; 
+        color: Black; 
+        font-family: sans-serif;
+   
+    } 
+  
+img 
+{ 
+        width: 50%; 
+} 
+  
+   
+.przycisk 
+{ 
+background-color: rgb(82, 186, 179);
+  border-radius: 6px;
+  border: none;
+  color: rgb(255, 255, 255);
+  padding: 10px;
+  text-transform: uppercase;
+  width: 200px;
+  cursor: pointer; 
+} 
+  
+
+} 
+.wynik
+{
+height: 70px;
+  width: 70px;
+  padding: 35px;
+  margin: 25px auto;
+  border: 1px solid gray;
+  border-radius: 5px;  
+  font-size:40px;
+}
